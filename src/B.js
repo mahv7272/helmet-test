@@ -7,6 +7,8 @@ export default function B() {
       <Helmet>
         <meta charSet="utf-8" />
         <title>B-Title</title>
+        <body class="dark" />
+
       </Helmet>
       component B
     </div>

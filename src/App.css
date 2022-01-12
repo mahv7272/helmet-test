@@ -1,7 +1,10 @@
 .App {
   text-align: center;
 }
-
+.dark{
+  background-color: #282c34;
+  color:aliceblue
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
