@@ -17,8 +17,12 @@ export default function A() {
       </Helmet>
       component A<button onClick={clicked}>go to B</button>
       <p>test</p>
+<<<<<<< HEAD
       <span>salam</span>
       
+=======
+      <p>test</p>
+>>>>>>> dev
     </div>
   );
 }
