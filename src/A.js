@@ -17,6 +17,8 @@ export default function A() {
       </Helmet>
       component A<button onClick={clicked}>go to B</button>
       <p>test</p>
+      <span>salam</span>
+      
     </div>
   );
 }
